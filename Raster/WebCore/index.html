@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: file:; connect-src 'none';">
+<link rel="stylesheet" href="styles.css">
+<title>Raster</title>
+</head>
+<body>
+<div class="raster-banner" id="banner"></div>
+<div id="scroller">
+  <div id="wrap" class="md-doc-wrap">
+    <div id="doc" class="md-doc" contenteditable="false" spellcheck="false"></div>
+  </div>
+</div>
+
+<!-- vendor (bundled locally — no CDN, no network at runtime) -->
+<script src="vendor/marked.min.js"></script>
+<script src="vendor/highlight.min.js"></script>
+<script src="vendor/hljs-javascript.min.js"></script>
+<script src="vendor/hljs-typescript.min.js"></script>
+<script src="vendor/hljs-swift.min.js"></script>
+<script src="vendor/hljs-bash.min.js"></script>
+<script src="vendor/hljs-python.min.js"></script>
+<script src="vendor/hljs-json.min.js"></script>
+<script src="vendor/hljs-css.min.js"></script>
+<script src="vendor/hljs-xml.min.js"></script>
+<script src="vendor/hljs-yaml.min.js"></script>
+<script src="vendor/mermaid.min.js"></script>
+<script src="vendor/turndown.js"></script>
+
+<script src="strings.js"></script>
+<script src="engine.js"></script>
+</body>
+</html>

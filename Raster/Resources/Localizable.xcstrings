@@ -1,0 +1,426 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld item(s) selected" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "%lld item(s) selected" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "%lld item(s) selecionado(s)" } }
+      }
+    },
+    "%lld words · %lld min" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "%lld words · %lld min" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "%lld palavras · %lld min" } }
+      }
+    },
+    "Bold" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Bold" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Negrito" } }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Cancel" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Cancelar" } }
+      }
+    },
+    "Close Tab" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Close Tab" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Fechar Aba" } }
+      }
+    },
+    "Code Block" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Code Block" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Bloco de Código" } }
+      }
+    },
+    "Couldn't read %@." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Couldn't read %@." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Não foi possível ler %@." } }
+      }
+    },
+    "Couldn't save %@." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Couldn't save %@." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Não foi possível salvar %@." } }
+      }
+    },
+    "Dark" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Dark" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Escuro" } }
+      }
+    },
+    "Discard" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Discard" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Descartar" } }
+      }
+    },
+    "Discard unsaved changes?" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Discard unsaved changes?" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Descartar alterações não salvas?" } }
+      }
+    },
+    "Edit" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Edit" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Editar" } }
+      }
+    },
+    "Editor" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Editor" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Editor" } }
+      }
+    },
+    "English" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "English" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "English" } }
+      }
+    },
+    "Export" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Export" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Exportar" } }
+      }
+    },
+    "Export HTML…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Export HTML…" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Exportar HTML…" } }
+      }
+    },
+    "Export PDF…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Export PDF…" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Exportar PDF…" } }
+      }
+    },
+    "Export as ZIP" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Export as ZIP" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Exportar como ZIP" } }
+      }
+    },
+    "Export as ZIP…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Export as ZIP…" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Exportar como ZIP…" } }
+      }
+    },
+    "Export failed: %@" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Export failed: %@" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Falha na exportação: %@" } }
+      }
+    },
+    "Files" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Files" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Arquivos" } }
+      }
+    },
+    "Find" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Find" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Buscar" } }
+      }
+    },
+    "Find  ⌘F" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Find  ⌘F" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Buscar  ⌘F" } }
+      }
+    },
+    "Find in document" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Find in document" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Buscar no documento" } }
+      }
+    },
+    "Format" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Format" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Formatar" } }
+      }
+    },
+    "HTML exported — %@" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "HTML exported — %@" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "HTML exportado — %@" } }
+      }
+    },
+    "Heading" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Heading" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Título" } }
+      }
+    },
+    "Include rendered HTML" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Include rendered HTML" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Incluir HTML renderizado" } }
+      }
+    },
+    "Italic" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Italic" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Itálico" } }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Language" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Idioma" } }
+      }
+    },
+    "Light" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Light" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Claro" } }
+      }
+    },
+    "Link" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Link" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Link" } }
+      }
+    },
+    "Markdown Editor" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Markdown Editor" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Editor de Markdown" } }
+      }
+    },
+    "List" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "List" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Lista" } }
+      }
+    },
+    "Ln %lld, Col %lld" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Ln %lld, Col %lld" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Ln %lld, Col %lld" } }
+      }
+    },
+    "New File" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "New File" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Novo Arquivo" } }
+      }
+    },
+    "No folder open." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No folder open." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Nenhuma pasta aberta." } }
+      }
+    },
+    "No headings." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No headings." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Sem títulos." } }
+      }
+    },
+    "Open" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Open" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Abrir" } }
+      }
+    },
+    "Open File…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Open File…" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Abrir Arquivo…" } }
+      }
+    },
+    "Open Folder…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Open Folder…" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Abrir Pasta…" } }
+      }
+    },
+    "Open a file" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Open a file" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Abrir um arquivo" } }
+      }
+    },
+    "Outline" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Outline" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Tópicos" } }
+      }
+    },
+    "PDF exported — %@" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "PDF exported — %@" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "PDF exportado — %@" } }
+      }
+    },
+    "Português (Brasil)" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Português (Brasil)" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Português (Brasil)" } }
+      }
+    },
+    "Preferences" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Preferences" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Preferências" } }
+      }
+    },
+    "Preferences…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Preferences…" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Preferências…" } }
+      }
+    },
+    "Preserve folder structure" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Preserve folder structure" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Preservar estrutura de pastas" } }
+      }
+    },
+    "Print…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Print…" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Imprimir…" } }
+      }
+    },
+    "Quote" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Quote" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Citação" } }
+      }
+    },
+    "Raster doesn't have permission to access this folder." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Raster doesn't have permission to access this folder." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "O Raster não tem permissão para acessar esta pasta." } }
+      }
+    },
+    "Read" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Read" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Ler" } }
+      }
+    },
+    "Reading" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Reading" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Leitura" } }
+      }
+    },
+    "Reveal in Finder" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Reveal in Finder" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Revelar no Finder" } }
+      }
+    },
+    "Reading font" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Reading font" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Fonte de leitura" } }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Salvar" } }
+      }
+    },
+    "Saved %@" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Saved %@" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "%@ salvo" } }
+      }
+    },
+    "Split" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Split" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Dividido" } }
+      }
+    },
+    "Strikethrough" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Strikethrough" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Tachado" } }
+      }
+    },
+    "System" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "System" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Sistema" } }
+      }
+    },
+    "Table" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Table" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Tabela" } }
+      }
+    },
+    "Task List" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Task List" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Lista de Tarefas" } }
+      }
+    },
+    "Theme" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Theme" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Tema" } }
+      }
+    },
+    "This file or folder can no longer be located." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "This file or folder can no longer be located." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Este arquivo ou pasta não pôde mais ser localizado." } }
+      }
+    },
+    "Toggle Explorer" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Toggle Explorer" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Alternar Explorador" } }
+      }
+    },
+    "Toggle Read / Edit" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Toggle Read / Edit" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Alternar Ler / Editar" } }
+      }
+    },
+    "Toggle explorer  ⌘\\" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Toggle explorer  ⌘\\" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Alternar explorador  ⌘\\" } }
+      }
+    },
+    "Untitled.md" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Untitled.md" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "Sem Título.md" } }
+      }
+    },
+    "ZIP exported — %lld files" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "ZIP exported — %lld files" } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "ZIP exportado — %lld arquivos" } }
+      }
+    },
+    "“%@” has unsaved changes. Your edits will be lost." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "“%@” has unsaved changes. Your edits will be lost." } },
+        "pt-BR" : { "stringUnit" : { "state" : "translated", "value" : "“%@” tem alterações não salvas. Suas edições serão perdidas." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}
