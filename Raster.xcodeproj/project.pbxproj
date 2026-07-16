@@ -7,567 +7,578 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		090A72E098AD461EB241BBF9 = {
-			fileRef = ACAFB69D3FAF47009727A142;
+		0B0D4767B2B84942AA63D58E = {
+			fileRef = "0B557E3740744F179816FA92";
 			isa = PBXBuildFile;
 		};
-		095B668A8C604178B12BF90B = {
-			fileRef = "5CE900F1D8844F029B308104";
+		0DA46BCE3A0F4089BC6A3FD1 = {
+			fileRef = "09A95AD264C4459B910E11A5";
 			isa = PBXBuildFile;
 		};
-		1874BED1EA4D4FFEA8AB0A5F = {
-			fileRef = A5989892BEA34B2AAF76E51D;
+		16E94E0B83B84058BD19E789 = {
+			fileRef = "2B9D3B4CBA2D4BDAA70E23A1";
 			isa = PBXBuildFile;
 		};
-		1A6EF260D1604DEAAA10C6AC = {
-			fileRef = "80B6D12136BE44C7888EB7EE";
+		17B56757A65A4ABDA688C826 = {
+			fileRef = CC2A43DA3D7D42AB936A84F3;
 			isa = PBXBuildFile;
 		};
-		1A77E9E802D54FB5A79C8168 = {
-			fileRef = D3272B24E4D745F2814BA49E;
+		18FC1B1CBAC84D518D47605A = {
+			fileRef = AA097CFF70D440578F091A83;
 			isa = PBXBuildFile;
 		};
-		1C03C410A57640E9B5BE2E75 = {
-			fileRef = BF639441AD2F4D16ACB80CD5;
+		1CB1311E524C41BBA8A59663 = {
+			fileRef = "54C7C7866F3E42B4A5352366";
 			isa = PBXBuildFile;
 		};
-		1D8B46ADE6AE46D2886F7845 = {
-			fileRef = "5A639E98BFDB43A48FEB7840";
+		2051E89E870A49AD8AB607DE = {
+			fileRef = "5C713A1297D9430BBCE99B5A";
 			isa = PBXBuildFile;
 		};
-		225342E4DAF74E80954E83ED = {
-			fileRef = C8663B8E82F64109A773B119;
+		22E52075C3B64E088837EAA3 = {
+			fileRef = "65D6FC8CE75D48ACACBAE9DB";
 			isa = PBXBuildFile;
 		};
-		2E3C4EF124F84FCEBD068550 = {
-			fileRef = "479E34B94115417E912C2D5E";
+		300D5B8CB2BE405FB4DAF315 = {
+			fileRef = "3A3C935AB62E4A72A7910E2E";
 			isa = PBXBuildFile;
 		};
-		331EC43923E44649B823F498 = {
-			fileRef = A010A29D73C74AC2B3A40EA9;
+		310EAF1451144022ADDA7D22 = {
+			fileRef = A92C03711292426189FAAAE0;
 			isa = PBXBuildFile;
 		};
-		3965F18D652D4EDBBD278859 = {
-			fileRef = EC273CE630E6401A92543A8B;
+		3D89BCF840F746A1B8919A60 = {
+			fileRef = "0C1D3453C6A442928DD3FB3C";
 			isa = PBXBuildFile;
 		};
-		525C564EF84A448FAEBC97FD = {
-			fileRef = F7162F79F441482D8B79B432;
+		3E085635F52442FFBD92BC0C = {
+			fileRef = F632271798474BE593E8A943;
 			isa = PBXBuildFile;
 		};
-		536F31BF032F434A93ECA4FC = {
-			fileRef = F3865CB4447E4CFAB1151337;
+		413CD09F87364F22B9585D62 = {
+			fileRef = B13A142E98C044FFB98FE661;
 			isa = PBXBuildFile;
 		};
-		5E85C81662EE4841B93E93B7 = {
-			fileRef = B47E4AC2EAC045759B63D0C0;
+		439DA8D51F1A4C1AB7FAFB3E = {
+			fileRef = "92235190E39C4678A2A65173";
 			isa = PBXBuildFile;
 		};
-		669727DD8B9E4EC8B6586D34 = {
-			fileRef = "42B7EDC15B6B445FAFC22178";
+		5118CC4356CA4381B314EF28 = {
+			fileRef = "08A4FA1D786E40B78CFF9CC0";
 			isa = PBXBuildFile;
 		};
-		754357C480034E6C869C8071 = {
-			fileRef = D70A151D061645F08C125B43;
+		574F0D31401743F6881EBD39 = {
+			fileRef = "4ED4A22AC65040108F5D8239";
 			isa = PBXBuildFile;
 		};
-		7616B0B651BC44FDBE2E97C8 = {
-			fileRef = "8303E3F0221043E9953B157E";
+		5808D93271704C4D90D71516 = {
+			fileRef = "969DF292D1734A538EDF608E";
 			isa = PBXBuildFile;
 		};
-		77FD1ACA3AE54402995886AE = {
-			fileRef = "2439F87C64F44AB69FCBC8AA";
+		5989C73A26CF44CC8EE74633 = {
+			fileRef = "5222D95C9090463597A8E30B";
 			isa = PBXBuildFile;
 		};
-		7BA1B1A30E2C40928838A1DD = {
-			fileRef = "037487F1E8AB4112902D4402";
+		6761254BCDF44088ADED82A4 = {
+			fileRef = "29ABB89C649047AA8CA811CB";
 			isa = PBXBuildFile;
 		};
-		7E55FEF8A40C43F28BAEEC1F = {
-			fileRef = A0654BA7AE08481B96869A9F;
+		6DAF58A2DD4E4A3A99589D5B = {
+			fileRef = "4D5A3550D2EE44AE8CDFE168";
 			isa = PBXBuildFile;
 		};
-		815CB495E1544122BCCF06B0 = {
-			fileRef = A3580A4195084CD7A80F2D6E;
+		700F4845E5324669A1F49E97 = {
+			fileRef = "478E79D1F67545CAB3F2FA76";
 			isa = PBXBuildFile;
 		};
-		88A384C6A5894D5B9C89FEB3 = {
-			fileRef = B0A7B551BEA14D6A89C936FD;
+		760D89B0B8764EB7B4EC3824 = {
+			fileRef = BC6FB232707B46F8889BC9D1;
 			isa = PBXBuildFile;
 		};
-		88F94808D723445E819A79B2 = {
-			fileRef = "5FDFD5BA4BB549F8A8994968";
+		79328585509645C2A22517F6 = {
+			fileRef = "946D95962FED44769361572A";
 			isa = PBXBuildFile;
 		};
-		8A8EBF5294BB451796B99054 = {
-			fileRef = "75E980D79D4245999894C7F0";
+		7B8B73A37EAF496D87AE9E62 = {
+			fileRef = E50F3BEF7BF343D6A1CBB378;
 			isa = PBXBuildFile;
 		};
-		8B39B87CB58C44F08C8966FD = {
-			fileRef = AFA030413BAE466D93D91105;
+		84DF01B72F28423F9758B89C = {
+			fileRef = "0FA1AC2519AF435F9BE3CEE1";
 			isa = PBXBuildFile;
 		};
-		93064371B46046A783E6F5F3 = {
-			fileRef = "524C0370E8294259A084276F";
+		89A63B44C0264948AC511A31 = {
+			fileRef = A8AA69423BEA41B2BBC56DC4;
 			isa = PBXBuildFile;
 		};
-		9956FE0AFB6A41758C7A34D6 = {
-			fileRef = "4EE8DF975C864102BA8F3D97";
+		959B864CDB4A4A58A38D6B41 = {
+			fileRef = "7653C722B80E4495BB0DA2E3";
 			isa = PBXBuildFile;
 		};
-		9ACD4C24F9054E3BBAD35487 = {
-			fileRef = CE74B6561B944A9E93B53905;
+		9675774856554570BDB384D6 = {
+			fileRef = EE7FF64880FB4FA286B94AEB;
 			isa = PBXBuildFile;
 		};
-		9BBA7C9DC37144AF9857DF94 = {
-			fileRef = "58AE4548C8F147928ABC82F2";
+		9A575E9400DB4C6089EEC7A2 = {
+			isa = PBXBuildFile;
+			productRef = "1ABA03E1DAAD4CB7A82E40D5";
+		};
+		A44AFAF5C47D49A8A972944A = {
+			fileRef = E7DCBB711D9F453AA1BD57E0;
 			isa = PBXBuildFile;
 		};
-		9EECE7F6799C4E55B7F5A99D = {
-			fileRef = "5A5EC00587E34650A0C24CE0";
+		B08E18F2B9ED4C92AA7C4A58 = {
+			fileRef = "347411AD43B4459597ED646A";
 			isa = PBXBuildFile;
 		};
-		A82E75F767594709A555C8C4 = {
-			fileRef = "4CC3F64CAA454C2487E169B1";
+		B10537AAB7F4421AAF08BA7E = {
+			fileRef = "96A38EF62DAB4747AAFFB5BB";
 			isa = PBXBuildFile;
 		};
-		A8AAA288057442D9A54A955E = {
-			fileRef = "354D3EAE89DE432A97B5A6A9";
+		B802038D86AB4CDABA6F0E97 = {
+			fileRef = E33A72C5BBAF48D7B081775F;
 			isa = PBXBuildFile;
 		};
-		A90CFC0EAE1A404D8D95F4AC = {
-			fileRef = A93F06A1AC4349BEBAE77506;
+		BDC354144D0F4F0DA71BA46F = {
+			fileRef = "4707011D076D4DCCBE4D205A";
 			isa = PBXBuildFile;
 		};
-		AE55920647E64D8E9819888D = {
-			fileRef = "9886341B9EFF46FC869A329E";
+		BEF94A5B9E9B43848AFF3F2B = {
+			fileRef = D8B012B1174141D8821C211D;
 			isa = PBXBuildFile;
 		};
-		B072F283431B41C998205EBA = {
-			fileRef = E1388FDF88B849E59805B2DB;
+		C38A8D763FC949A9803656B5 = {
+			fileRef = "4DC3A71C6F0048CA9BBD7A35";
 			isa = PBXBuildFile;
 		};
-		B9230C601B0F48F9A87527D3 = {
-			fileRef = BD79899037CA4F828C59E52B;
+		C5EB8C89A0C24D879CCA01AD = {
+			fileRef = "3D2D37CA77074810B69E83B7";
 			isa = PBXBuildFile;
 		};
-		BC5288A2AE9D4BCBB55317F6 = {
-			fileRef = "3C61AF5CF51444E78B2B5D51";
+		CB3BDFD6864C47E1ADE7931E = {
+			fileRef = C95FF172C3384520AAD430B8;
 			isa = PBXBuildFile;
 		};
-		C071A79B1E0747559711A202 = {
-			fileRef = "8914D9BB9AA749FAB86398E6";
+		CF5DA8B2539B4C838B2501A4 = {
+			fileRef = F98B62BF0EB14A84B0A32FF0;
 			isa = PBXBuildFile;
 		};
-		C0D8DAE3A83A4046AA4A6E7C = {
-			isa = PBXBuildFile;
-			productRef = "2192477D335E49268F50D57E";
-		};
-		C6F2EF57D85A43CA9B8AC758 = {
-			fileRef = "937B0150EDB14D7D98463970";
+		D93D73494B874ABA8957B12C = {
+			fileRef = E5DCE62A8366448AB18936E4;
 			isa = PBXBuildFile;
 		};
-		D19EE77FBAC54BBCAC149B0F = {
-			fileRef = "4468515CD4244D8C943C2487";
+		DF408181F0F749E4A3574C55 = {
+			fileRef = "7AE92147B67641BAB4FA2C31";
 			isa = PBXBuildFile;
 		};
-		D653296D91CE49D695381CE9 = {
-			fileRef = "70B59D73E8EF4FD6A095B97F";
+		DFBCCEBD9A9D4009A892C521 = {
+			fileRef = DD2FE3A18AE9445AB27FA547;
 			isa = PBXBuildFile;
 		};
-		EF2EFE001C144D84BEE8C78E = {
-			fileRef = "0D70EF52ACFA4163A6AEA8E3";
+		E28B7B7C14484669A450986C = {
+			fileRef = DAE15FF708774FD1A2AD9C7C;
 			isa = PBXBuildFile;
 		};
-		F0687AD041A741379AF4AE9F = {
-			fileRef = "9560DF1F579748E29F1C8CDA";
+		E35902F8DC8F44609329BDFE = {
+			fileRef = "6E3614BBE3E540478DA7A2B5";
 			isa = PBXBuildFile;
 		};
-		F9BBFE120ADC4B5B9BA31ECB = {
-			fileRef = C7075DEB02F84DCFAB445BD1;
+		F34A876D2875473599127DB9 = {
+			fileRef = AD36A5274D0B4AEEA8FF2955;
 			isa = PBXBuildFile;
 		};
-		FDF79CF6C089498C8E8CEBA0 = {
-			fileRef = A0174AA99E714C02B1E791DD;
+		F570E63B15AA475D8F411DC3 = {
+			fileRef = DD443B4EBD1A47C2BAD72B39;
+			isa = PBXBuildFile;
+		};
+		F59C6D1C670844B690404CE9 = {
+			fileRef = "45B8B2C965DC41A1AD0AEE30";
 			isa = PBXBuildFile;
 		};
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		711D2A7336DC4E46A0EA5CE2 = {
-			containerPortal = "572759DFB24F4A59B23CC8BD";
+		3F62B9D818884AE4AD561F22 = {
+			containerPortal = EFF90009A21641EABD6DBB10;
 			isa = PBXContainerItemProxy;
 			proxyType = 1;
-			remoteGlobalIDString = AD3311FACC5E49E19D67AAA6;
+			remoteGlobalIDString = "956E421CF8424A129B1C4D2B";
 			remoteInfo = Raster;
 		};
-		904364FA1B8E4A3C8F606B5D = {
-			containerPortal = "572759DFB24F4A59B23CC8BD";
+		4FA2A7D6E1774CDB92E1C9E2 = {
+			containerPortal = EFF90009A21641EABD6DBB10;
 			isa = PBXContainerItemProxy;
 			proxyType = 1;
-			remoteGlobalIDString = AD3311FACC5E49E19D67AAA6;
+			remoteGlobalIDString = "956E421CF8424A129B1C4D2B";
 			remoteInfo = Raster;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		037487F1E8AB4112902D4402 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = SplashView.swift;
-			path = Raster/Views/SplashView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		0D70EF52ACFA4163A6AEA8E3 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = RasterUITests.swift;
-			path = RasterUITests/RasterUITests.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		2439F87C64F44AB69FCBC8AA = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = ConfirmCloseSheet.swift;
-			path = Raster/Views/Overlays/ConfirmCloseSheet.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		354D3EAE89DE432A97B5A6A9 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = FormatToolbar.swift;
-			path = Raster/Views/Toolbar/FormatToolbar.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		3C61AF5CF51444E78B2B5D51 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = FileNodeTests.swift;
-			path = RasterTests/FileNodeTests.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		3ECC792C76934A04B13B0D0A = {
-			explicitFileType = wrapper.application;
-			includeInIndex = 0;
-			isa = PBXFileReference;
-			path = Raster.app;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		42B7EDC15B6B445FAFC22178 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = ToastView.swift;
-			path = Raster/Views/Overlays/ToastView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		4468515CD4244D8C943C2487 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = ExportServiceZIPTests.swift;
-			path = RasterTests/ExportServiceZIPTests.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		479E34B94115417E912C2D5E = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = RasterPalette.swift;
-			path = Raster/Views/RasterPalette.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		4CC3F64CAA454C2487E169B1 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = RasterApp.swift;
-			path = Raster/App/RasterApp.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		4EE8DF975C864102BA8F3D97 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = AppState.swift;
-			path = Raster/App/AppState.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		524C0370E8294259A084276F = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = ExportService.swift;
-			path = Raster/Services/ExportService.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		58AE4548C8F147928ABC82F2 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = WebCoreLocator.swift;
-			path = Raster/Services/WebCoreLocator.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		5A5EC00587E34650A0C24CE0 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = PreferencesStore.swift;
-			path = Raster/Services/PreferencesStore.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		5A639E98BFDB43A48FEB7840 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = SourceEditor.swift;
-			path = Raster/Views/Editor/SourceEditor.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		5CE900F1D8844F029B308104 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = StatusBarView.swift;
-			path = Raster/Views/StatusBarView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		5FDFD5BA4BB549F8A8994968 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = TextFormatter.swift;
-			path = Raster/Views/Editor/TextFormatter.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		70B59D73E8EF4FD6A095B97F = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = PreviewWebView.swift;
-			path = Raster/Views/Preview/PreviewWebView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		75E980D79D4245999894C7F0 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = FileTreeView.swift;
-			path = Raster/Views/Sidebar/FileTreeView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		80B6D12136BE44C7888EB7EE = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = MarkdownDocument.swift;
-			path = Raster/Models/MarkdownDocument.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		8303E3F0221043E9953B157E = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = FileService.swift;
-			path = Raster/Services/FileService.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		8914D9BB9AA749FAB86398E6 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = OutlineRenderingTests.swift;
-			path = RasterTests/OutlineRenderingTests.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		937B0150EDB14D7D98463970 = {
-			isa = PBXFileReference;
-			lastKnownFileType = folder.assetcatalog;
-			name = Assets.xcassets;
-			path = Raster/Resources/Assets.xcassets;
-			sourceTree = SOURCE_ROOT;
-		};
-		9560DF1F579748E29F1C8CDA = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = LocalizationService.swift;
-			path = Raster/Services/LocalizationService.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		9617DA0630974566B56BDE54 = {
-			explicitFileType = wrapper.cfbundle;
-			includeInIndex = 0;
-			isa = PBXFileReference;
-			path = RasterUITests.xctest;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		9886341B9EFF46FC869A329E = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = ExplorerView.swift;
-			path = Raster/Views/Sidebar/ExplorerView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		A010A29D73C74AC2B3A40EA9 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = ModeSwitch.swift;
-			path = Raster/Views/Toolbar/ModeSwitch.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		A0174AA99E714C02B1E791DD = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = ZipExportSheet.swift;
-			path = Raster/Views/Overlays/ZipExportSheet.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		A0654BA7AE08481B96869A9F = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = MainWindowView.swift;
-			path = Raster/Views/MainWindowView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		A3580A4195084CD7A80F2D6E = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = OutlineView.swift;
-			path = Raster/Views/Sidebar/OutlineView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		A5989892BEA34B2AAF76E51D = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = WebBridge.swift;
-			path = Raster/Views/Preview/WebBridge.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		A6B20E25645F42A98A898E93 = {
-			explicitFileType = wrapper.cfbundle;
-			includeInIndex = 0;
-			isa = PBXFileReference;
-			path = RasterTests.xctest;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		A93F06A1AC4349BEBAE77506 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = FindBar.swift;
-			path = Raster/Views/Toolbar/FindBar.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		ACAFB69D3FAF47009727A142 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = FileServiceTests.swift;
-			path = RasterTests/FileServiceTests.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		AFA030413BAE466D93D91105 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = Workspace.swift;
-			path = Raster/Models/Workspace.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		B0A7B551BEA14D6A89C936FD = {
-			isa = PBXFileReference;
-			lastKnownFileType = folder;
-			name = WebCore;
-			path = Raster/WebCore;
-			sourceTree = SOURCE_ROOT;
-		};
-		B47E4AC2EAC045759B63D0C0 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = EditorMode.swift;
-			path = Raster/Models/EditorMode.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		BD79899037CA4F828C59E52B = {
+		08A4FA1D786E40B78CFF9CC0 = {
 			isa = PBXFileReference;
 			lastKnownFileType = sourcecode.swift;
 			name = FileNode.swift;
 			path = Raster/Models/FileNode.swift;
 			sourceTree = SOURCE_ROOT;
 		};
-		BF639441AD2F4D16ACB80CD5 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = RasterError.swift;
-			path = Raster/Models/RasterError.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		C7075DEB02F84DCFAB445BD1 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = TabBarView.swift;
-			path = Raster/Views/TabBarView.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		C8663B8E82F64109A773B119 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.swift;
-			name = SidebarTab.swift;
-			path = Raster/Models/SidebarTab.swift;
-			sourceTree = SOURCE_ROOT;
-		};
-		CE74B6561B944A9E93B53905 = {
+		09A95AD264C4459B910E11A5 = {
 			isa = PBXFileReference;
 			lastKnownFileType = sourcecode.swift;
 			name = PreferencesView.swift;
 			path = Raster/Views/Overlays/PreferencesView.swift;
 			sourceTree = SOURCE_ROOT;
 		};
-		D3272B24E4D745F2814BA49E = {
+		0B557E3740744F179816FA92 = {
 			isa = PBXFileReference;
 			lastKnownFileType = sourcecode.swift;
-			name = MarkdownHighlighter.swift;
-			path = Raster/Views/Editor/MarkdownHighlighter.swift;
+			name = RasterPalette.swift;
+			path = Raster/Views/RasterPalette.swift;
 			sourceTree = SOURCE_ROOT;
 		};
-		D70A151D061645F08C125B43 = {
+		0C1D3453C6A442928DD3FB3C = {
 			isa = PBXFileReference;
 			lastKnownFileType = sourcecode.swift;
-			name = RootView.swift;
-			path = Raster/Views/RootView.swift;
+			name = TabBarView.swift;
+			path = Raster/Views/TabBarView.swift;
 			sourceTree = SOURCE_ROOT;
 		};
-		E1388FDF88B849E59805B2DB = {
+		0FA1AC2519AF435F9BE3CEE1 = {
 			isa = PBXFileReference;
 			lastKnownFileType = sourcecode.swift;
-			name = OffscreenRenderer.swift;
-			path = Raster/Views/Preview/OffscreenRenderer.swift;
+			name = WebCoreLocator.swift;
+			path = Raster/Services/WebCoreLocator.swift;
 			sourceTree = SOURCE_ROOT;
 		};
-		EC273CE630E6401A92543A8B = {
+		29ABB89C649047AA8CA811CB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = SplashView.swift;
+			path = Raster/Views/SplashView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		2B9D3B4CBA2D4BDAA70E23A1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = EditorMode.swift;
+			path = Raster/Models/EditorMode.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		347411AD43B4459597ED646A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = LocalizationService.swift;
+			path = Raster/Services/LocalizationService.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		3A3C935AB62E4A72A7910E2E = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = RasterError.swift;
+			path = Raster/Models/RasterError.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		3D2D37CA77074810B69E83B7 = {
 			isa = PBXFileReference;
 			lastKnownFileType = sourcecode.swift;
 			name = TextFormatterTests.swift;
 			path = RasterTests/TextFormatterTests.swift;
 			sourceTree = SOURCE_ROOT;
 		};
-		F3865CB4447E4CFAB1151337 = {
+		45B8B2C965DC41A1AD0AEE30 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = AppState.swift;
+			path = Raster/App/AppState.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		4707011D076D4DCCBE4D205A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = RootView.swift;
+			path = Raster/Views/RootView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		478E79D1F67545CAB3F2FA76 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = ToastView.swift;
+			path = Raster/Views/Overlays/ToastView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		4D5A3550D2EE44AE8CDFE168 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = ExportService.swift;
+			path = Raster/Services/ExportService.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		4DC3A71C6F0048CA9BBD7A35 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = TextFormatter.swift;
+			path = Raster/Views/Editor/TextFormatter.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		4ED4A22AC65040108F5D8239 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = SidebarTab.swift;
+			path = Raster/Models/SidebarTab.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		5222D95C9090463597A8E30B = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = PreferencesStore.swift;
+			path = Raster/Services/PreferencesStore.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		54C7C7866F3E42B4A5352366 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = RasterApp.swift;
+			path = Raster/App/RasterApp.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		57034B9DC2254CB496EC9581 = {
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = RasterUITests.xctest;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5C713A1297D9430BBCE99B5A = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder.assetcatalog;
+			name = Assets.xcassets;
+			path = Raster/Resources/Assets.xcassets;
+			sourceTree = SOURCE_ROOT;
+		};
+		65D6FC8CE75D48ACACBAE9DB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = RasterUITests.swift;
+			path = RasterUITests/RasterUITests.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		6E3614BBE3E540478DA7A2B5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = ZipExportSheet.swift;
+			path = Raster/Views/Overlays/ZipExportSheet.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		7653C722B80E4495BB0DA2E3 = {
 			isa = PBXFileReference;
 			lastKnownFileType = sourcecode.swift;
 			name = MarkdownDocumentTests.swift;
 			path = RasterTests/MarkdownDocumentTests.swift;
 			sourceTree = SOURCE_ROOT;
 		};
-		F7162F79F441482D8B79B432 = {
+		78A222089B1E4CF18727CD2C = {
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = RasterTests.xctest;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7AE92147B67641BAB4FA2C31 = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			name = WebCore;
+			path = Raster/WebCore;
+			sourceTree = SOURCE_ROOT;
+		};
+		8B18F24388C04696900AAF0C = {
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = Raster.app;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		92235190E39C4678A2A65173 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = SourceEditor.swift;
+			path = Raster/Views/Editor/SourceEditor.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		946D95962FED44769361572A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = FileService.swift;
+			path = Raster/Services/FileService.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		969DF292D1734A538EDF608E = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = FileServiceTests.swift;
+			path = RasterTests/FileServiceTests.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		96A38EF62DAB4747AAFFB5BB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = OffscreenRenderer.swift;
+			path = Raster/Views/Preview/OffscreenRenderer.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		A8AA69423BEA41B2BBC56DC4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = FileTreeView.swift;
+			path = Raster/Views/Sidebar/FileTreeView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		A92C03711292426189FAAAE0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = ModeSwitch.swift;
+			path = Raster/Views/Toolbar/ModeSwitch.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		AA097CFF70D440578F091A83 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = OutlineView.swift;
+			path = Raster/Views/Sidebar/OutlineView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		AD36A5274D0B4AEEA8FF2955 = {
 			isa = PBXFileReference;
 			lastKnownFileType = text.json.xcstrings;
 			name = Localizable.xcstrings;
 			path = Raster/Resources/Localizable.xcstrings;
 			sourceTree = SOURCE_ROOT;
 		};
+		B13A142E98C044FFB98FE661 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = ExplorerView.swift;
+			path = Raster/Views/Sidebar/ExplorerView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		BC6FB232707B46F8889BC9D1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = Workspace.swift;
+			path = Raster/Models/Workspace.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		C95FF172C3384520AAD430B8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = PreviewWebView.swift;
+			path = Raster/Views/Preview/PreviewWebView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		CC2A43DA3D7D42AB936A84F3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = WindowDragArea.swift;
+			path = Raster/Views/WindowDragArea.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		D8B012B1174141D8821C211D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = WebBridge.swift;
+			path = Raster/Views/Preview/WebBridge.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		DAE15FF708774FD1A2AD9C7C = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = FormatToolbar.swift;
+			path = Raster/Views/Toolbar/FormatToolbar.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		DD2FE3A18AE9445AB27FA547 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = MainWindowView.swift;
+			path = Raster/Views/MainWindowView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		DD443B4EBD1A47C2BAD72B39 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = MarkdownHighlighter.swift;
+			path = Raster/Views/Editor/MarkdownHighlighter.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		E33A72C5BBAF48D7B081775F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = MarkdownDocument.swift;
+			path = Raster/Models/MarkdownDocument.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		E50F3BEF7BF343D6A1CBB378 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = StatusBarView.swift;
+			path = Raster/Views/StatusBarView.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		E5DCE62A8366448AB18936E4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = ExportServiceZIPTests.swift;
+			path = RasterTests/ExportServiceZIPTests.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		E7DCBB711D9F453AA1BD57E0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = ConfirmCloseSheet.swift;
+			path = Raster/Views/Overlays/ConfirmCloseSheet.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		EE7FF64880FB4FA286B94AEB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = OutlineRenderingTests.swift;
+			path = RasterTests/OutlineRenderingTests.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		F632271798474BE593E8A943 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = FileNodeTests.swift;
+			path = RasterTests/FileNodeTests.swift;
+			sourceTree = SOURCE_ROOT;
+		};
+		F98B62BF0EB14A84B0A32FF0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			name = FindBar.swift;
+			path = Raster/Views/Toolbar/FindBar.swift;
+			sourceTree = SOURCE_ROOT;
+		};
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2CE38FABBC754A3E9F7A11A7 = {
+		2F510C30A614482C9C543993 = {
 			buildActionMask = 2147483647;
 			files = (
 			);
 			isa = PBXFrameworksBuildPhase;
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ADD816733AED41CE93B091C0 = {
+		55E747738DBD409487F5AA64 = {
 			buildActionMask = 2147483647;
 			files = (
-				C0D8DAE3A83A4046AA4A6E7C,
 			);
 			isa = PBXFrameworksBuildPhase;
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DF8411029F464E039361BCE7 = {
+		709E4A22AFA849AE887E8F18 = {
 			buildActionMask = 2147483647;
 			files = (
+				"9A575E9400DB4C6089EEC7A2",
 			);
 			isa = PBXFrameworksBuildPhase;
 			runOnlyForDeploymentPostprocessing = 0;
@@ -575,175 +586,176 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0C02581B50F0455E8059F9A9 = {
+		087582E6CAB84A7C83B657DA = {
 			children = (
-				"9B162BAAAE7B435B86D63B6F",
-				"8A2C1FA30E8A4A08A2A0BC30",
-				BE61FB9E2C8844BF94AAA94B,
-				E21B897EB49D4A32929AD298,
-				"9865D1723561427F9DB24E8B",
-				A0654BA7AE08481B96869A9F,
-				"479E34B94115417E912C2D5E",
-				D70A151D061645F08C125B43,
-				"037487F1E8AB4112902D4402",
-				"5CE900F1D8844F029B308104",
-				C7075DEB02F84DCFAB445BD1,
+				"43E5CC390813410389710A95",
+				AE5DA6FDC4BB45DF98950BB3,
+				C7B1E2C3F6BF4B63A1966ABB,
+				F59E1528774843278AE35DA3,
+				"281FBFACFFF54E4B8CA46143",
+				DD2FE3A18AE9445AB27FA547,
+				"0B557E3740744F179816FA92",
+				"4707011D076D4DCCBE4D205A",
+				"29ABB89C649047AA8CA811CB",
+				E50F3BEF7BF343D6A1CBB378,
+				"0C1D3453C6A442928DD3FB3C",
+				CC2A43DA3D7D42AB936A84F3,
 			);
 			isa = PBXGroup;
 			name = Views;
 			path = Views;
 			sourceTree = "<group>";
 		};
-		0D76A8B32F654B1EB6D27812 = {
+		270C6291710E4C6EACC8C4DA = {
 			children = (
-				B47E4AC2EAC045759B63D0C0,
-				BD79899037CA4F828C59E52B,
-				"80B6D12136BE44C7888EB7EE",
-				BF639441AD2F4D16ACB80CD5,
-				C8663B8E82F64109A773B119,
-				AFA030413BAE466D93D91105,
-			);
-			isa = PBXGroup;
-			name = Models;
-			path = Models;
-			sourceTree = "<group>";
-		};
-		1D0B03825F344E3B8779B772 = {
-			children = (
-				"569391D60292460B963510DB",
-				"0D76A8B32F654B1EB6D27812",
-				"8C0A171E90404A4E9666518D",
-				"0C02581B50F0455E8059F9A9",
-				D5FD39FD6BCE4CA8A6FE5C14,
-				B0A7B551BEA14D6A89C936FD,
-			);
-			isa = PBXGroup;
-			name = Raster;
-			sourceTree = "<group>";
-		};
-		3CEA207CF886455F9B1AF926 = {
-			children = (
-				"1D0B03825F344E3B8779B772",
-				E00D8F9C400B41B3945ABA59,
-				"83F0ABF44B47430296EE1058",
-				"70419AD4C6CB4A43BD9E98D7",
+				"7B31BE3968FC424E8DB2E2FF",
+				DB2C9AD8D27F4057B31D1D49,
+				"59C5D6E85D9A476AA8AE6831",
+				"87C3B36FE92646C5ABAD192E",
 			);
 			isa = PBXGroup;
 			sourceTree = "<group>";
 		};
-		569391D60292460B963510DB = {
+		281FBFACFFF54E4B8CA46143 = {
 			children = (
-				"4EE8DF975C864102BA8F3D97",
-				"4CC3F64CAA454C2487E169B1",
-			);
-			isa = PBXGroup;
-			name = App;
-			path = App;
-			sourceTree = "<group>";
-		};
-		70419AD4C6CB4A43BD9E98D7 = {
-			children = (
-				"3ECC792C76934A04B13B0D0A",
-				A6B20E25645F42A98A898E93,
-				"9617DA0630974566B56BDE54",
-			);
-			isa = PBXGroup;
-			name = Products;
-			sourceTree = "<group>";
-		};
-		83F0ABF44B47430296EE1058 = {
-			children = (
-				"0D70EF52ACFA4163A6AEA8E3",
-			);
-			isa = PBXGroup;
-			name = RasterUITests;
-			sourceTree = "<group>";
-		};
-		8A2C1FA30E8A4A08A2A0BC30 = {
-			children = (
-				"2439F87C64F44AB69FCBC8AA",
-				CE74B6561B944A9E93B53905,
-				"42B7EDC15B6B445FAFC22178",
-				A0174AA99E714C02B1E791DD,
-			);
-			isa = PBXGroup;
-			name = Overlays;
-			path = Overlays;
-			sourceTree = "<group>";
-		};
-		8C0A171E90404A4E9666518D = {
-			children = (
-				"524C0370E8294259A084276F",
-				"8303E3F0221043E9953B157E",
-				"9560DF1F579748E29F1C8CDA",
-				"5A5EC00587E34650A0C24CE0",
-				"58AE4548C8F147928ABC82F2",
-			);
-			isa = PBXGroup;
-			name = Services;
-			path = Services;
-			sourceTree = "<group>";
-		};
-		9865D1723561427F9DB24E8B = {
-			children = (
-				A93F06A1AC4349BEBAE77506,
-				"354D3EAE89DE432A97B5A6A9",
-				A010A29D73C74AC2B3A40EA9,
+				F98B62BF0EB14A84B0A32FF0,
+				DAE15FF708774FD1A2AD9C7C,
+				A92C03711292426189FAAAE0,
 			);
 			isa = PBXGroup;
 			name = Toolbar;
 			path = Toolbar;
 			sourceTree = "<group>";
 		};
-		9B162BAAAE7B435B86D63B6F = {
+		3118EE095EFE44758AF16E6C = {
 			children = (
-				D3272B24E4D745F2814BA49E,
-				"5A639E98BFDB43A48FEB7840",
-				"5FDFD5BA4BB549F8A8994968",
+				AD36A5274D0B4AEEA8FF2955,
+				"5C713A1297D9430BBCE99B5A",
+			);
+			isa = PBXGroup;
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		43E5CC390813410389710A95 = {
+			children = (
+				DD443B4EBD1A47C2BAD72B39,
+				"92235190E39C4678A2A65173",
+				"4DC3A71C6F0048CA9BBD7A35",
 			);
 			isa = PBXGroup;
 			name = Editor;
 			path = Editor;
 			sourceTree = "<group>";
 		};
-		BE61FB9E2C8844BF94AAA94B = {
+		47CC6ADB530F4E05AEAF85BE = {
 			children = (
-				E1388FDF88B849E59805B2DB,
-				"70B59D73E8EF4FD6A095B97F",
-				A5989892BEA34B2AAF76E51D,
+				"4D5A3550D2EE44AE8CDFE168",
+				"946D95962FED44769361572A",
+				"347411AD43B4459597ED646A",
+				"5222D95C9090463597A8E30B",
+				"0FA1AC2519AF435F9BE3CEE1",
+			);
+			isa = PBXGroup;
+			name = Services;
+			path = Services;
+			sourceTree = "<group>";
+		};
+		55671AABB41B4ACB8D19F775 = {
+			children = (
+				"45B8B2C965DC41A1AD0AEE30",
+				"54C7C7866F3E42B4A5352366",
+			);
+			isa = PBXGroup;
+			name = App;
+			path = App;
+			sourceTree = "<group>";
+		};
+		59C5D6E85D9A476AA8AE6831 = {
+			children = (
+				"65D6FC8CE75D48ACACBAE9DB",
+			);
+			isa = PBXGroup;
+			name = RasterUITests;
+			sourceTree = "<group>";
+		};
+		7B31BE3968FC424E8DB2E2FF = {
+			children = (
+				"55671AABB41B4ACB8D19F775",
+				B5B2C8A0F9404A029CD3E788,
+				"47CC6ADB530F4E05AEAF85BE",
+				"087582E6CAB84A7C83B657DA",
+				"3118EE095EFE44758AF16E6C",
+				"7AE92147B67641BAB4FA2C31",
+			);
+			isa = PBXGroup;
+			name = Raster;
+			sourceTree = "<group>";
+		};
+		87C3B36FE92646C5ABAD192E = {
+			children = (
+				"8B18F24388C04696900AAF0C",
+				"78A222089B1E4CF18727CD2C",
+				"57034B9DC2254CB496EC9581",
+			);
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AE5DA6FDC4BB45DF98950BB3 = {
+			children = (
+				E7DCBB711D9F453AA1BD57E0,
+				"09A95AD264C4459B910E11A5",
+				"478E79D1F67545CAB3F2FA76",
+				"6E3614BBE3E540478DA7A2B5",
+			);
+			isa = PBXGroup;
+			name = Overlays;
+			path = Overlays;
+			sourceTree = "<group>";
+		};
+		B5B2C8A0F9404A029CD3E788 = {
+			children = (
+				"2B9D3B4CBA2D4BDAA70E23A1",
+				"08A4FA1D786E40B78CFF9CC0",
+				E33A72C5BBAF48D7B081775F,
+				"3A3C935AB62E4A72A7910E2E",
+				"4ED4A22AC65040108F5D8239",
+				BC6FB232707B46F8889BC9D1,
+			);
+			isa = PBXGroup;
+			name = Models;
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C7B1E2C3F6BF4B63A1966ABB = {
+			children = (
+				"96A38EF62DAB4747AAFFB5BB",
+				C95FF172C3384520AAD430B8,
+				D8B012B1174141D8821C211D,
 			);
 			isa = PBXGroup;
 			name = Preview;
 			path = Preview;
 			sourceTree = "<group>";
 		};
-		D5FD39FD6BCE4CA8A6FE5C14 = {
+		DB2C9AD8D27F4057B31D1D49 = {
 			children = (
-				F7162F79F441482D8B79B432,
-				"937B0150EDB14D7D98463970",
-			);
-			isa = PBXGroup;
-			name = Resources;
-			sourceTree = "<group>";
-		};
-		E00D8F9C400B41B3945ABA59 = {
-			children = (
-				"4468515CD4244D8C943C2487",
-				"3C61AF5CF51444E78B2B5D51",
-				ACAFB69D3FAF47009727A142,
-				F3865CB4447E4CFAB1151337,
-				"8914D9BB9AA749FAB86398E6",
-				EC273CE630E6401A92543A8B,
+				E5DCE62A8366448AB18936E4,
+				F632271798474BE593E8A943,
+				"969DF292D1734A538EDF608E",
+				"7653C722B80E4495BB0DA2E3",
+				EE7FF64880FB4FA286B94AEB,
+				"3D2D37CA77074810B69E83B7",
 			);
 			isa = PBXGroup;
 			name = RasterTests;
 			sourceTree = "<group>";
 		};
-		E21B897EB49D4A32929AD298 = {
+		F59E1528774843278AE35DA3 = {
 			children = (
-				"9886341B9EFF46FC869A329E",
-				"75E980D79D4245999894C7F0",
-				A3580A4195084CD7A80F2D6E,
+				B13A142E98C044FFB98FE661,
+				A8AA69423BEA41B2BBC56DC4,
+				AA097CFF70D440578F091A83,
 			);
 			isa = PBXGroup;
 			name = Sidebar;
@@ -753,30 +765,30 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6D1C0C270BD24E9FB8601C31 = {
-			buildConfigurationList = FAF74BD55231484F8C90B424;
+		0414D2B2BAC74539A43BC7D9 = {
+			buildConfigurationList = B8116ECA78404BF9890701B3;
 			buildPhases = (
-				"3B577555E500452591A9BAE8",
-				"2CE38FABBC754A3E9F7A11A7",
-				"57C22E0DB909422D8FC79289",
+				"86B80A5113554A178BF1B7C8",
+				"55E747738DBD409487F5AA64",
+				"07B9FCD187F94217B520FB83",
 			);
 			buildRules = (
 			);
 			dependencies = (
-				B15E0D7063EF4EAB85075F01,
+				F6518D57C9FE4A5EAE1E0131,
 			);
 			isa = PBXNativeTarget;
 			name = RasterTests;
 			productName = RasterTests;
-			productReference = A6B20E25645F42A98A898E93;
+			productReference = "78A222089B1E4CF18727CD2C";
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		AD3311FACC5E49E19D67AAA6 = {
-			buildConfigurationList = "8A566831D3CB4B2794CA1F37";
+		956E421CF8424A129B1C4D2B = {
+			buildConfigurationList = "9D4672F37E7D4A1288F4CECD";
 			buildPhases = (
-				"7D8752225B04483E89E602F6",
-				ADD816733AED41CE93B091C0,
-				EF85613B12374BE6A8495B18,
+				BEBEDE2753244F88AE827A4A,
+				"709E4A22AFA849AE887E8F18",
+				"05BB952B4375409F89CD12FA",
 			);
 			buildRules = (
 			);
@@ -785,53 +797,53 @@
 			isa = PBXNativeTarget;
 			name = Raster;
 			packageProductDependencies = (
-				"2192477D335E49268F50D57E",
+				"1ABA03E1DAAD4CB7A82E40D5",
 			);
 			productName = Raster;
-			productReference = "3ECC792C76934A04B13B0D0A";
+			productReference = "8B18F24388C04696900AAF0C";
 			productType = "com.apple.product-type.application";
 		};
-		DDC84130D62A4CA8A163892B = {
-			buildConfigurationList = "0D51046769D544D9BD98EA6D";
+		B2D6D1B081194BCFBBA7954F = {
+			buildConfigurationList = A5C6C202E6854F55AAB565FC;
 			buildPhases = (
-				"0117F6C3D0FD40DB93C4D3D3",
-				DF8411029F464E039361BCE7,
-				D848434382F444A59E270F16,
+				"75D7CD633AEB49CA93C5ECC4",
+				"2F510C30A614482C9C543993",
+				"94AE7ADEB4BF47DD8E64975F",
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D4B9C9EE292C41ECA7FC0358,
+				CD4E682806DB47C1B2C4360B,
 			);
 			isa = PBXNativeTarget;
 			name = RasterUITests;
 			productName = RasterUITests;
-			productReference = "9617DA0630974566B56BDE54";
+			productReference = "57034B9DC2254CB496EC9581";
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		572759DFB24F4A59B23CC8BD = {
+		EFF90009A21641EABD6DBB10 = {
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					"6D1C0C270BD24E9FB8601C31" = {
+					"0414D2B2BAC74539A43BC7D9" = {
 						CreatedOnToolsVersion = "16.0";
-						TestTargetID = AD3311FACC5E49E19D67AAA6;
+						TestTargetID = "956E421CF8424A129B1C4D2B";
 					};
-					AD3311FACC5E49E19D67AAA6 = {
+					"956E421CF8424A129B1C4D2B" = {
 						CreatedOnToolsVersion = "16.0";
 					};
-					DDC84130D62A4CA8A163892B = {
+					B2D6D1B081194BCFBBA7954F = {
 						CreatedOnToolsVersion = "16.0";
-						TestTargetID = AD3311FACC5E49E19D67AAA6;
+						TestTargetID = "956E421CF8424A129B1C4D2B";
 					};
 				};
 			};
-			buildConfigurationList = C635FD2DFBE54E6F8E212AAD;
+			buildConfigurationList = DD1E3699E1D344C0A43E25BF;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -841,42 +853,42 @@
 				"pt-BR",
 				Base,
 			);
-			mainGroup = "3CEA207CF886455F9B1AF926";
+			mainGroup = "270C6291710E4C6EACC8C4DA";
 			packageReferences = (
-				"80C520B63F7846D9A8BBFA93",
+				A6245E94AA5A4A508AF4716D,
 			);
-			productRefGroup = "70419AD4C6CB4A43BD9E98D7";
+			productRefGroup = "87C3B36FE92646C5ABAD192E";
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AD3311FACC5E49E19D67AAA6,
-				"6D1C0C270BD24E9FB8601C31",
-				DDC84130D62A4CA8A163892B,
+				"956E421CF8424A129B1C4D2B",
+				"0414D2B2BAC74539A43BC7D9",
+				B2D6D1B081194BCFBBA7954F,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		57C22E0DB909422D8FC79289 = {
+		05BB952B4375409F89CD12FA = {
+			buildActionMask = 2147483647;
+			files = (
+				F34A876D2875473599127DB9,
+				"2051E89E870A49AD8AB607DE",
+				DF408181F0F749E4A3574C55,
+			);
+			isa = PBXResourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07B9FCD187F94217B520FB83 = {
 			buildActionMask = 2147483647;
 			files = (
 			);
 			isa = PBXResourcesBuildPhase;
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D848434382F444A59E270F16 = {
+		94AE7ADEB4BF47DD8E64975F = {
 			buildActionMask = 2147483647;
 			files = (
-			);
-			isa = PBXResourcesBuildPhase;
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		EF85613B12374BE6A8495B18 = {
-			buildActionMask = 2147483647;
-			files = (
-				"525C564EF84A448FAEBC97FD",
-				C6F2EF57D85A43CA9B8AC758,
-				"88A384C6A5894D5B9C89FEB3",
 			);
 			isa = PBXResourcesBuildPhase;
 			runOnlyForDeploymentPostprocessing = 0;
@@ -884,65 +896,66 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0117F6C3D0FD40DB93C4D3D3 = {
+		75D7CD633AEB49CA93C5ECC4 = {
 			buildActionMask = 2147483647;
 			files = (
-				EF2EFE001C144D84BEE8C78E,
+				"22E52075C3B64E088837EAA3",
 			);
 			isa = PBXSourcesBuildPhase;
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3B577555E500452591A9BAE8 = {
+		86B80A5113554A178BF1B7C8 = {
 			buildActionMask = 2147483647;
 			files = (
-				D19EE77FBAC54BBCAC149B0F,
-				BC5288A2AE9D4BCBB55317F6,
-				"090A72E098AD461EB241BBF9",
-				"536F31BF032F434A93ECA4FC",
-				C071A79B1E0747559711A202,
-				"3965F18D652D4EDBBD278859",
+				D93D73494B874ABA8957B12C,
+				"3E085635F52442FFBD92BC0C",
+				"5808D93271704C4D90D71516",
+				"959B864CDB4A4A58A38D6B41",
+				"9675774856554570BDB384D6",
+				C5EB8C89A0C24D879CCA01AD,
 			);
 			isa = PBXSourcesBuildPhase;
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7D8752225B04483E89E602F6 = {
+		BEBEDE2753244F88AE827A4A = {
 			buildActionMask = 2147483647;
 			files = (
-				"9956FE0AFB6A41758C7A34D6",
-				A82E75F767594709A555C8C4,
-				"5E85C81662EE4841B93E93B7",
-				B9230C601B0F48F9A87527D3,
-				"1A6EF260D1604DEAAA10C6AC",
-				"1C03C410A57640E9B5BE2E75",
-				"225342E4DAF74E80954E83ED",
-				"8B39B87CB58C44F08C8966FD",
-				"93064371B46046A783E6F5F3",
-				"7616B0B651BC44FDBE2E97C8",
-				F0687AD041A741379AF4AE9F,
-				"9EECE7F6799C4E55B7F5A99D",
-				"9BBA7C9DC37144AF9857DF94",
-				"7E55FEF8A40C43F28BAEEC1F",
-				"2E3C4EF124F84FCEBD068550",
-				"754357C480034E6C869C8071",
-				"7BA1B1A30E2C40928838A1DD",
-				"095B668A8C604178B12BF90B",
-				F9BBFE120ADC4B5B9BA31ECB,
-				"1A77E9E802D54FB5A79C8168",
-				"1D8B46ADE6AE46D2886F7845",
-				"88F94808D723445E819A79B2",
-				"77FD1ACA3AE54402995886AE",
-				"9ACD4C24F9054E3BBAD35487",
-				"669727DD8B9E4EC8B6586D34",
-				FDF79CF6C089498C8E8CEBA0,
-				B072F283431B41C998205EBA,
-				D653296D91CE49D695381CE9,
-				"1874BED1EA4D4FFEA8AB0A5F",
-				AE55920647E64D8E9819888D,
-				"8A8EBF5294BB451796B99054",
-				"815CB495E1544122BCCF06B0",
-				A90CFC0EAE1A404D8D95F4AC,
-				A8AAA288057442D9A54A955E,
-				"331EC43923E44649B823F498",
+				F59C6D1C670844B690404CE9,
+				"1CB1311E524C41BBA8A59663",
+				"16E94E0B83B84058BD19E789",
+				"5118CC4356CA4381B314EF28",
+				B802038D86AB4CDABA6F0E97,
+				"300D5B8CB2BE405FB4DAF315",
+				"574F0D31401743F6881EBD39",
+				"760D89B0B8764EB7B4EC3824",
+				"6DAF58A2DD4E4A3A99589D5B",
+				"79328585509645C2A22517F6",
+				B08E18F2B9ED4C92AA7C4A58,
+				"5989C73A26CF44CC8EE74633",
+				"84DF01B72F28423F9758B89C",
+				DFBCCEBD9A9D4009A892C521,
+				"0B0D4767B2B84942AA63D58E",
+				BDC354144D0F4F0DA71BA46F,
+				"6761254BCDF44088ADED82A4",
+				"7B8B73A37EAF496D87AE9E62",
+				"3D89BCF840F746A1B8919A60",
+				"17B56757A65A4ABDA688C826",
+				F570E63B15AA475D8F411DC3,
+				"439DA8D51F1A4C1AB7FAFB3E",
+				C38A8D763FC949A9803656B5,
+				A44AFAF5C47D49A8A972944A,
+				"0DA46BCE3A0F4089BC6A3FD1",
+				"700F4845E5324669A1F49E97",
+				E35902F8DC8F44609329BDFE,
+				B10537AAB7F4421AAF08BA7E,
+				CB3BDFD6864C47E1ADE7931E,
+				BEF94A5B9E9B43848AFF3F2B,
+				"413CD09F87364F22B9585D62",
+				"89A63B44C0264948AC511A31",
+				"18FC1B1CBAC84D518D47605A",
+				CF5DA8B2539B4C838B2501A4,
+				E28B7B7C14484669A450986C,
+				"310EAF1451144022ADDA7D22",
 			);
 			isa = PBXSourcesBuildPhase;
 			runOnlyForDeploymentPostprocessing = 0;
@@ -950,99 +963,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		B15E0D7063EF4EAB85075F01 = {
+		CD4E682806DB47C1B2C4360B = {
 			isa = PBXTargetDependency;
-			target = AD3311FACC5E49E19D67AAA6;
-			targetProxy = "904364FA1B8E4A3C8F606B5D";
+			target = "956E421CF8424A129B1C4D2B";
+			targetProxy = "3F62B9D818884AE4AD561F22";
 		};
-		D4B9C9EE292C41ECA7FC0358 = {
+		F6518D57C9FE4A5EAE1E0131 = {
 			isa = PBXTargetDependency;
-			target = AD3311FACC5E49E19D67AAA6;
-			targetProxy = "711D2A7336DC4E46A0EA5CE2";
+			target = "956E421CF8424A129B1C4D2B";
+			targetProxy = "4FA2A7D6E1774CDB92E1C9E2";
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0CA5E412D58F47E68C72D2A9 = {
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				COPY_PHASE_STRIP = YES;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = NO;
-				GCC_C_LANGUAGE_STANDARD = gnu17;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_OPTIMIZATION_LEVEL = s;
-				MACOSX_DEPLOYMENT_TARGET = "14.0";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				ONLY_ACTIVE_ARCH = NO;
-				SDKROOT = macosx;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = "6.0";
-			};
-			isa = XCBuildConfiguration;
-			name = Release;
-		};
-		60CF666D00CA482CB58B873A = {
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = "1";
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = "1.0";
-				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app.RasterUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				TEST_TARGET_NAME = Raster;
-			};
-			isa = XCBuildConfiguration;
-			name = Release;
-		};
-		695CC6792D544FD69FC749B0 = {
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = "1";
-				DEVELOPMENT_ASSET_PATHS = "";
-				ENABLE_APP_SANDBOX = NO;
-				ENABLE_HARDENED_RUNTIME = NO;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MARKETING_VERSION = "1.0";
-				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-			};
-			isa = XCBuildConfiguration;
-			name = Debug;
-		};
-		6D3A8E93978247B7972AC33A = {
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = "1";
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = "1.0";
-				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app.RasterUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				TEST_TARGET_NAME = Raster;
-			};
-			isa = XCBuildConfiguration;
-			name = Debug;
-		};
-		77BBD5B0962F4EB3B930A257 = {
+		07532A7473B34E9694559D91 = {
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1071,37 +1005,48 @@
 			isa = XCBuildConfiguration;
 			name = Debug;
 		};
-		8B6A0C91A6A4416DA734DCF0 = {
+		17CB440B03264D1D8CF7C1AD = {
 			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = "1";
+				DEVELOPMENT_ASSET_PATHS = "";
+				ENABLE_APP_SANDBOX = NO;
+				ENABLE_HARDENED_RUNTIME = NO;
+				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
 				MARKETING_VERSION = "1.0";
-				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app.RasterTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Raster.app/Contents/MacOS/Raster";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 			};
 			isa = XCBuildConfiguration;
 			name = Debug;
 		};
-		A734338FD1AE44219C77DD03 = {
+		36D938D858614275B51E164C = {
 			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = "1";
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = "1.0";
-				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app.RasterTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app.RasterUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Raster.app/Contents/MacOS/Raster";
+				TEST_TARGET_NAME = Raster;
 			};
 			isa = XCBuildConfiguration;
-			name = Release;
+			name = Debug;
 		};
-		F38D62F7EEAB497299FC11D3 = {
+		7B9E6DE2A92240F889A50464 = {
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
@@ -1128,40 +1073,108 @@
 			isa = XCBuildConfiguration;
 			name = Release;
 		};
+		7EFA07AB85594EC8BDA4041A = {
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
+				MACOSX_DEPLOYMENT_TARGET = "14.0";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				ONLY_ACTIVE_ARCH = NO;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = "6.0";
+			};
+			isa = XCBuildConfiguration;
+			name = Release;
+		};
+		C868942CF1AC404F8EB4D4AB = {
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app.RasterTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Raster.app/Contents/MacOS/Raster";
+			};
+			isa = XCBuildConfiguration;
+			name = Release;
+		};
+		F1AA41F587CC4485992E77C4 = {
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app.RasterTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Raster.app/Contents/MacOS/Raster";
+			};
+			isa = XCBuildConfiguration;
+			name = Debug;
+		};
+		FC60F530865342CD8EAA4F4E = {
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = com.raster.app.RasterUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_TARGET_NAME = Raster;
+			};
+			isa = XCBuildConfiguration;
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0D51046769D544D9BD98EA6D = {
+		9D4672F37E7D4A1288F4CECD = {
 			buildConfigurations = (
-				"6D3A8E93978247B7972AC33A",
-				"60CF666D00CA482CB58B873A",
+				"17CB440B03264D1D8CF7C1AD",
+				"7B9E6DE2A92240F889A50464",
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 			isa = XCConfigurationList;
 		};
-		8A566831D3CB4B2794CA1F37 = {
+		A5C6C202E6854F55AAB565FC = {
 			buildConfigurations = (
-				"695CC6792D544FD69FC749B0",
-				F38D62F7EEAB497299FC11D3,
+				"36D938D858614275B51E164C",
+				FC60F530865342CD8EAA4F4E,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 			isa = XCConfigurationList;
 		};
-		C635FD2DFBE54E6F8E212AAD = {
+		B8116ECA78404BF9890701B3 = {
 			buildConfigurations = (
-				"77BBD5B0962F4EB3B930A257",
-				"0CA5E412D58F47E68C72D2A9",
+				F1AA41F587CC4485992E77C4,
+				C868942CF1AC404F8EB4D4AB,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 			isa = XCConfigurationList;
 		};
-		FAF74BD55231484F8C90B424 = {
+		DD1E3699E1D344C0A43E25BF = {
 			buildConfigurations = (
-				"8B6A0C91A6A4416DA734DCF0",
-				A734338FD1AE44219C77DD03,
+				"07532A7473B34E9694559D91",
+				"7EFA07AB85594EC8BDA4041A",
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1170,7 +1183,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		80C520B63F7846D9A8BBFA93 = {
+		A6245E94AA5A4A508AF4716D = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/weichsel/ZIPFoundation.git";
 			requirement = {
@@ -1181,12 +1194,12 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		2192477D335E49268F50D57E = {
+		1ABA03E1DAAD4CB7A82E40D5 = {
 			isa = XCSwiftPackageProductDependency;
-			package = "80C520B63F7846D9A8BBFA93";
+			package = A6245E94AA5A4A508AF4716D;
 			productName = ZIPFoundation;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = 572759DFB24F4A59B23CC8BD;
+	rootObject = EFF90009A21641EABD6DBB10;
 }

@@ -72,6 +72,7 @@ struct MainWindowView: View {
         }
         .padding(.horizontal, 14)
         .frame(height: 46)
+        .background(WindowDragArea()) // empty toolbar areas drag the window; double-click zooms (hiddenTitleBar has no real title bar)
         .background(colors.panel)
         .overlay(Rectangle().fill(colors.border).frame(height: 1), alignment: .bottom)
         .zIndex(30)
