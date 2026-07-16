@@ -16,3 +16,4 @@ xcuserdata/
 # Temporary
 *.swp
 *~
+dist/

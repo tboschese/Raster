@@ -38,6 +38,7 @@ struct ExplorerView: View {
             }
         }
         .frame(width: 242)
+        .frame(maxHeight: .infinity, alignment: .top) // short content (empty states) pins to the top, never floats centered
         .background(colors.side)
     }
 
